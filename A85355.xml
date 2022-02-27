@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Lincolne-shire. Being a true relation of the apprehention of Sir William Ballaudine, (master of the horse to the Prince Paltsgrave) Sarjeant Major Killaway, Sarjeant Major Dolman, and diverse other commanders who were going to assist the King against the Parliament; and are now ordered to be brought up to London. Also the abstract of an oath of association (or confederacie) of diverse ill-affected persons in the county of Yorke: with some of the neighbouring counties, for theraising [sic] an army of horse and foot, under the command of the Earle of Cumberland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85355</idno>
+            <idno type="STC">Wing G1061</idno>
+            <idno type="STC">Thomason E115_19</idno>
+            <idno type="STC">ESTC R21880</idno>
+            <idno type="EEBO-CITATION">99871529</idno>
+            <idno type="PROQUEST">99871529</idno>
+            <idno type="VID">156023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Lincolne-shire. Being a true relation of the apprehention of Sir William Ballaudine, (master of the horse to the Prince Paltsgrave) Sarjeant Major Killaway, Sarjeant Major Dolman, and diverse other commanders who were going to assist the King against the Parliament; and are now ordered to be brought up to London. Also the abstract of an oath of association (or confederacie) of diverse ill-affected persons in the county of Yorke: with some of the neighbouring counties, for theraising [sic] an army of horse and foot, under the command of the Earle of Cumberland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gifford,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Septemb. 5. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballandine, William, --  Sir.</term>
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Maurice, --  Prince, 1620-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156023:1" rendition="simple:additions"/>
+            <p>GOOD NEWES FROM Lincolne-Shire.</p>
+            <p>BEING A true Relation of the apprehention of Sir <hi>William Ballaudine,</hi> (Maſter of the Horſe to the <hi>Prince Paltſ<g ref="char:EOLhyphen"/>grave</hi>) Sarjeant Major <hi>Killaway,</hi> Sarjeant Major <hi>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lman,</hi> and diverſe other Commanders who were going to aſſiſt the King againſt the Parliament; and are now ordered to be brought up to LONDON.</p>
+            <p>ALSO The Abſtract of an <hi>Oath of Aſſociation</hi> (or Confederacie) of diverſe ill-affected perſons in the County of <hi>Yorke:</hi> with ſome of the neighbouring Counties, for the raiſing an Army of Horſe and foot, under the Command of the Earle of <hi>Cumberland.</hi>
+            </p>
+            <p>Printed for <hi>William Gifford.</hi> Septemb. 5. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156023:2"/>
+            <pb n="1" facs="tcp:156023:2"/>
+            <head>JOYFULL NEWES FROM <hi>LINCOLNE-SHIRE:</hi> Being a true Relation of the apprehending of Sir <hi>William Ballaudine,</hi> (Maſter of the Horſe to the Prince <hi>Paltſgrave</hi>) Serieant Maior <hi>Killaway,</hi> Serieant Maior <hi>Dolman,</hi> and divers other Commanders, who are or<g ref="char:EOLhyphen"/>dered to be brought up to <hi>London.</hi>
+            </head>
+            <head type="sub">Alſo the Oath of Aſſociation of divers ill-affe<g ref="char:EOLhyphen"/>cted perſons in <hi>Yorkſhire</hi> with the neighbou<g ref="char:EOLhyphen"/>ring Countreyes, for the raiſing of an Army of Horſe and Foot under the command of the Earl of <hi>Cumberland.</hi>
+            </head>
+            <p>VPon Thurſday morning laſt, being the firſt of September, when the Com<g ref="char:EOLhyphen"/>mittee for the defence of the Kingdom ſate in the uſuall place, in the Court of Wards, information was given to them of a ſhip, that lately ſtruck in at a Creeke in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> where it hath not been known that any ſhip hath landed heretofore, and there
+<pb n="2" facs="tcp:156023:3"/>landed out of the ſhip eleven men, and ma<g ref="char:EOLhyphen"/>ny trunks of a great weight, but the ſhip was lanched forth again to the ſea, and the Coun<g ref="char:EOLhyphen"/>trey roſe and had taken ten of the men, but the eleventh being (as is reported) Gentle<g ref="char:EOLhyphen"/>man of the Prince <hi>Paltſgraves</hi> Horſe was eſcaped away for the preſent, but was after<g ref="char:EOLhyphen"/>ward apprehended: for upon Friday follow<g ref="char:EOLhyphen"/>ing the ſecond of September, the Parlia<g ref="char:EOLhyphen"/>ment received information by certain men that came out of <hi>Lincolnſhire,</hi> that Sir <hi>Willi<g ref="char:EOLhyphen"/>am Ballaudine,</hi> together with Serieant Maior <hi>Killaway,</hi> and Serieant Maior <hi>Dolman,</hi> with diverſe other Commanders are taken in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> and commanded to be brought upon, becauſe it is conceived they were go<g ref="char:EOLhyphen"/>ing to the King to aſsiſt him againſt the Parliament. Many out of every Countrey (eſpeically thoſe that are well-affected to the good of the Kingdome) are willing and for<g ref="char:EOLhyphen"/>ward to manifeſt their courage for maintain<g ref="char:EOLhyphen"/>ing the peace thereof againſt the diſturbers of the ſame. One M. <hi>Hill</hi> the Under-She<g ref="char:EOLhyphen"/>riffe of <hi>Gloureſterſhire,</hi> having ten more with him, met with Sir <hi>Ralph Dutton</hi> and ten Cavaliers, who were raiſing of men againſt the Parliament in that countrey, whereupon the ſaid M. <hi>Hill,</hi> with the reſt of his compa<g ref="char:EOLhyphen"/>ny, fell upon Sir <hi>Ralph Dutton</hi> and his Cava<g ref="char:EOLhyphen"/>liers,
+<pb n="3" facs="tcp:156023:3"/>who ſo valiantly purſued them, that Sir <hi>Ralph Dutton</hi> was forced to ſwim the river <hi>Severne,</hi> and tooke two of the Cavaliers and brought them up to the Parliament, who had thanks returned them for their fidelity and paines, with further encouragement to ſend up all the malignant Cavaliers, and all thoſe who ſhould endeavour to put in ex<g ref="char:EOLhyphen"/>ecution the illegall Commiſſion of Array, if they appeare in that Countrey, and that all Countreyes ſhall do the like.</p>
+            <p>Since Sir <hi>Ralph Dutton</hi> fled out of <hi>Glo<g ref="char:EOLhyphen"/>ceſter</hi>-ſhire, he hath been very lately in <hi>He<g ref="char:EOLhyphen"/>reford</hi>-ſhire, where he thought to have rai<g ref="char:EOLhyphen"/>ſed five men for the Kings ſervice againſt the Parliament: and that he might the better effect his intended purpoſe, he hath im<g ref="char:EOLhyphen"/>ployed ſeverall agents to aſſiſt him in the raiſing of them: but ſtaying there in hopes of men till they could not raiſe money to de<g ref="char:EOLhyphen"/>fray ordinary expences, they were forced to flie from thence without either.</p>
+            <p>A thouſand ſouldiers being lately ſent from <hi>London</hi> into <hi>Hampſhire,</hi> did pillage di<g ref="char:EOLhyphen"/>verſe Papiſts houſes by the way, and after they came thither: ſo that the Papiſts in thoſe parts begin to flie, finding their plotting with Col. <hi>Goring</hi> to betray <hi>Portſmouth,</hi> is like to ruine the contrivers of that revolt, ſince all the <hi>Iſle of Wight</hi> ſtands wholly for the King and Parliament.</p>
+            <pb n="4" facs="tcp:156023:4"/>
+            <p>The Parliaments Forces by the aſſiſtance of the trained bands in <hi>Hampſhire</hi> having be<g ref="char:EOLhyphen"/>ſieged Colonell <hi>Goring</hi> in the towne, and ſeized upon all his fortifications and other out works, daily plying him with then Ord<g ref="char:EOLhyphen"/>nance, the towne being divided, and keep<g ref="char:EOLhyphen"/>ing garriſon one upon the other, inſomuch that Colonell <hi>Goring</hi> finding ſmall hope of<g ref="char:EOLhyphen"/>fecurity in the towne, and ſeeing His Maie<g ref="char:EOLhyphen"/>ſties expected aid intercepted, hath thought it moſt requiſite to make the beſt of a hard bargaine, and having loſt all but the laſt ſtake, well to husband it, leſt in loſing that he become a bankerupt.</p>
+            <p>Wherefore he hath humbly preſented his deſires to the Commanders of the Parlia<g ref="char:EOLhyphen"/>ments Forces, wherein are contained theſe particulars.</p>
+            <p>That although it were in his own power to keep the towne againſt them, yet ſo farre he did pitie the diſtreſſed eſtate of the town, that to prevent the effuſion of blood he was willing to reſigne up the towne, upon this condition, that upon the delivery of the ſaid towne, his life might be ſecured, and have free recourſe to his Maieſty.</p>
+            <p>But they knowing that this requeſt made by the Colonell was more for his own ends, then any intention of good ſervice to the State, ſtill proceed in making of works, the
+<pb n="5" facs="tcp:156023:4"/>Pioners being very active in their deſignes. The ſouldiers likewiſe are very forward, and make ſeverall aſſaults, thinking to draw them out of the towne: but they play leaſt in ſight, only playing with their Ordnance; but, the beſiegers being intrencht, they do little hurt, onely now and then a bullet lights in the trenches.</p>
+            <p>I he Cavaliers made an attempt to ſal<g ref="char:EOLhyphen"/>ley out of the towne upon ſome forces of ours came with proviſion, but being reſi<g ref="char:EOLhyphen"/>ſted, they were forced to flie, ſome of them taking the river, were forced to ſwim for it, being glad they could ſo eſc ape away.</p>
+            <p>Certaine letters were taken which were opened, wherein there was a diſcovery of the intention of the Cavaliers to give an alarme by night from <hi>Chicheſter</hi> ſide, by that meanes to draw our Forces from before <hi>Portſmouth,</hi> thinking by that meanes to give the Colonel and his ſouldiers opportunity to eſcape: but their proiect being diſcovered, the Co<g ref="char:EOLhyphen"/>lonell remaines our faſt-friend, without a<g ref="char:EOLhyphen"/>ny hope of deliverance. There is now a par<g ref="char:EOLhyphen"/>ley between thoſe of the town and the Com<g ref="char:EOLhyphen"/>mittee for the Parliament, and it is thought the towne will yeeld without ſhedding of blood, if they agree not upon conditions, the ſouldiers are to fall preſently upon the town. This is witneſſed by <hi>William Iorden.</hi>
+            </p>
+            <pb n="6" facs="tcp:156023:5"/>
+            <p>There came Letters from <hi>Yorkſhire</hi> to the Parliament on Thurſday, ſignifying that the ill affected party of that county have entred into an Oath of Aſſociation with neigh<g ref="char:EOLhyphen"/>bouring Countreyes, and impoſing upon the County, contrary to their conſents, a charge to maintain an army of Horſe and Foot un<g ref="char:EOLhyphen"/>der the command of the Earle of <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> with an intent to diſarme all well-affe<g ref="char:EOLhyphen"/>cted perſons in the Countrey that will not conſent to their illegall actions, and indea<g ref="char:EOLhyphen"/>vour the having of a Commiſsion of <hi>Oyer</hi> and <hi>Terminer</hi> in His Maieſties abſence, and a Councell of Warre to be continually kept there, to keep the countrey in ſubiection.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
